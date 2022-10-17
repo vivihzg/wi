@@ -7,3 +7,5 @@ wiki-todo
 - Instalar um tema 
 - Editar tema
 - Editar fonte
+- Google Optmize Tests
+- Page Tests
