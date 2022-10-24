@@ -1,10 +1,9 @@
 # wi
 wiki-todo
 
-- Criar um blog ✅
-- Criar um post ✅
-- Escolher um tema ✅
-- Instalar um tema ✅
+- [X] Criar um post 
+- [X] Escolher um tema 
+- [X] Instalar um tema 
 - Editar tema
 - Editar fonte
 - Google Optmize Tests
