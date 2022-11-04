@@ -5,6 +5,6 @@ wiki-todo
 - [X] Escolher um tema 
 - [X] Instalar um tema 
 - [X] Editar tema
-- [ ] Editar fonte
+- [X] Editar fonte
 - [ ] Google Optmize Tests
 - [ ] Page Tests
