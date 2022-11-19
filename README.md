@@ -8,3 +8,5 @@ wiki-todo
 - [X] Editar fonte
 - [ ] Google Optmize Tests
 - [ ] Page Tests
+- [ ] Terminar Curso Udemy 
+- [ ] Criar um tema Jekyll
